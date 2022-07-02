@@ -9,6 +9,7 @@
     "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^13.2.1",
     "create-app-react": "^1.0.6",
+    "debug": "^4.3.4",
     "framer-motion": "^6.3.16",
     "node": "^16.15.1",
     "react": "^17.0.2",
